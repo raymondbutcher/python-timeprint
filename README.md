@@ -1,6 +1,12 @@
 # Timeprint
 Python context manager and decorator for showing time elapsed.
 
+# Setup
+
+```
+pip install timeprint
+```
+
 # Usage as a context manager
 
 ```python
@@ -34,3 +40,7 @@ def second_function():
 
 # some other stuff took 100ms
 ```
+
+# Is that it?
+
+Yes. I was tired of finding and copying my old [Gist](https://gist.github.com/raymondbutcher/5168588) into files every time I wanted to measure a small chunk of code.

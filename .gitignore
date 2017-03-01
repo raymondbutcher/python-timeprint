@@ -1,2 +1,5 @@
+.direnv/
 .vscode/
+*.egg-info/
 *.pyc
+dist/
